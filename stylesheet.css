@@ -3,17 +3,13 @@ body{
     background-color: black;
     color:antiquewhite
 }
-.row1{
-    height: 85vh;
-}
-.headshot{
-    background: url("./Assets/headshot.JPG");
-    background-position: 50% 25%;
-    height: 100%;
-}
-.right{
-    float:right
-}
+
 .navbar{
     color:antiquewhite
+}
+@media screen and (max-width: 600px){
+    .headshot{
+        width:250px;
+        height:auto
+    }
 }
