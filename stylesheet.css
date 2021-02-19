@@ -1,10 +1,10 @@
 
 body{
     background-color: black;
-    color:blanchedalmond
+    color:antiquewhite
 }
 .row1{
-    height: 90vh;
+    height: 85vh;
 }
 .headshot{
     background: url("./Assets/headshot.JPG");
@@ -13,4 +13,7 @@ body{
 }
 .right{
     float:right
+}
+.navbar{
+    color:antiquewhite
 }
